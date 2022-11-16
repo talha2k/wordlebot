@@ -1,0 +1,4 @@
+node_modules/
+src/recordings/*
+src/.env
+package-lock.json
