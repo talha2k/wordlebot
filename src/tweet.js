@@ -46,7 +46,7 @@ class Tweet {
 				const status = {
 					status:
 						moment(new Date()).format("YYYY-MM-DD") +
-						` #wordle #nytimes #solution #wordleanswer
+						` #wordle #nytimes #solution #wordleanswer #wordletodayanswer #wordlehints 
 						Spoiler Alert!
 						Today's Wordle Answer
 						is:
